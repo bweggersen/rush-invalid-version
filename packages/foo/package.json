@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "dependencies": {
+    "ts-loader": "*",
+    "typescript": "npm:@msfast/typescript-platform-resolution@3.8.2"
+  }
+}
